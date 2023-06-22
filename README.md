@@ -10,3 +10,6 @@
 - 📫 Contate-me no e-mail: dtivini@gmail.com
 - 😄 Pronomes: Ele / Dele.
 - ⚡ Fato divertido: Eu amo filosofia.
+
+
+![snake gif](https://github.com/viniditi/viniditi/blob/output/github-contribution-grid-snake.svg)
