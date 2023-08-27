@@ -13,4 +13,4 @@
 
 
 
-![snake gif](https://github.com/viniditi/viniditi/blob/output/github-contribution-grid-snake.svg)
+
