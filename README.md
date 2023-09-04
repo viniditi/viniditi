@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Estou à procura do meu primeiro emprego na área de TI.
+- 🔭 Estou trabalhando na UPBI.
 - 🌱 Estudando atualmente java, python, SQL Server e inglês.
 - 👯 Estou sempre disposto a aceitar ajuda, seja de qualquer um.
 - 🤔 Estou procurando ajuda em java e python.
