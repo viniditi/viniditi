@@ -3,7 +3,8 @@
 </div>
 
 <div align="center">
-    <img src="./assets/typewriter.gif" alt="Typewriter GIF"/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=500&size=50&duration=1&pause=100000&color=BABABA&repeat=false&width=80&height=80&lines=I'm" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=500&size=50&duration=1600&pause=1200&color=0D1AFF&width=435&height=80&lines=+a+Programmer.;a+Web+Developer.;Vini!" alt="Typing SVG" /></a>
 </div>
 
 ###
