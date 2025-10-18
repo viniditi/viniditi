@@ -2,6 +2,16 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=-1&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=57a533"  />
 </div>
 
+<div align="center">
+    <img src="./assets/typewriter.gif" alt="Typewriter GIF"/>
+</div>
+
+###
+
+<div align="center">
+    <img src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
+</div>
+
 ###
 
 <h2 align="left">Main Skills</h2>
